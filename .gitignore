@@ -8,3 +8,5 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+**/logs-You can prepend a pattern with a double asterisk to match directories anywhere in the repository.
+debug.log-By default, patterns match files in any directory
